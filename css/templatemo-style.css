@@ -6,11 +6,28 @@
 
 
 .logo2 {
-  padding-top: 0px;
+  padding-top: 20;
   margin-bottom: -20%;
   width:100%;
 }
+.videoFade {
+  background-color: rgba(0,0,0,.99);
+  height: 100%;
+  width:100%;
+}
+/*.logoDiv {
+  background-color: rgba(0,0,0,.7);
+  height: 25%;
+  width:100%;
+}
 
+.logoDiv2 {
+  background-color: rgba(0,0,0,.7);
+  padding-bottom: 20%;
+  margin-bottom: -20%;
+  height: 25%;
+  width:100%;
+}*/
 
 /*
 
@@ -123,8 +140,22 @@ body {
     background-size: cover;
     max-width: 100%;
     height: 100%;
-}
 
+    /*position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(img/BnW.jpg) no-repeat;
+    background-size: cover;*/
+}
 
 
 /*
