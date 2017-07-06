@@ -1,4 +1,19 @@
 /*
+===============================================
+--------------- 0. Mitch's CSS ------------------
+===============================================
+*/
+
+
+.logo1 {
+  padding-top: 0px;
+  margin-bottom: -25%;
+  width:100%;
+  height:auto;
+}
+
+
+/*
 
 Short HTML Template
 
@@ -14,7 +29,7 @@ http://www.templatemo.com/tm-502-short
 */
 
 body {
-	font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .page_wrapper {
@@ -104,7 +119,7 @@ body {
 ===============================================
 */
 .image-bg {
-	background-image: url(../img/background-image.png);
+  background-image: url(../img/background-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 100%;
@@ -547,8 +562,8 @@ footer p em {
   .more-info {
     padding: 0px 30px 30px 30px;
   }
-}
 
+}
 
 
 /*
